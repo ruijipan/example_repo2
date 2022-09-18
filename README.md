@@ -1,1 +1,3 @@
-# example_repo2
+# Example_Repo2
+
+This is an example repo2
